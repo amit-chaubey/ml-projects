@@ -13,7 +13,7 @@ A collection of machine learning projects, each in its own self-contained direct
 
 ## Repository Structure
 ```
-pratice-ml-project/
+ml-project/
 ├── car-company/           # Chapter 1: Car Analysis Project
 │   ├── src/
 │   ├── dataset/
