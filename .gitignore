@@ -1,0 +1,17 @@
+# Python environments
+*/.venv/
+*/venv/
+*/__pycache__/
+*.py[cod]
+
+# Data files
+*/dataset/raw/*
+*/dataset/processed/*
+!*/dataset/raw/.gitkeep
+!*/dataset/processed/.gitkeep
+
+# OS files
+.DS_Store
+
+# IDE
+*/.vscode/
